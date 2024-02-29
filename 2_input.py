@@ -1,7 +1,5 @@
 # o André tem 28 anos de idade e mora na cidade de São Paulo
 
-
-
 nome = str(input('Digite um nome: '))
 idade = int(input('Digite a sua idade: '))
 try:
