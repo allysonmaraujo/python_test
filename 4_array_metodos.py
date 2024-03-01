@@ -14,3 +14,11 @@ cidades.insert(1, 'Belem')      # insere no indice e o valor
 cidades.pop(0)                  # remove de acordo com o indice
 cidades.sort()                  # organiza por ordem alfabética ou numerica
 
+#forma cada letra e espaço como indice em uma array
+var = list(cidade1)
+print(var)
+
+#criar um array a partir de um imput feito pelo usuario
+frutas_usuario = input('Digite o nome das frutaws separadas por virgulas e com espaço: ')
+frutas_lista = frutas_usuario.split(', ')
+print(frutas_lista)
