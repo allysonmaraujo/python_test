@@ -12,7 +12,7 @@ item4 = produtos[3]
 
 #ou
 
-item1, item2, item3, item4, *numeros, item5= produtos
+item1, item2, item3, item4, *numeros, item5 = produtos
 
 
 print(item1)
