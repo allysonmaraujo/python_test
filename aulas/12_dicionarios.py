@@ -2,7 +2,7 @@
 
 # Dicionarios
 
-    # Utiliza indez no formato de Keys e Values
+    # Utiliza index no formato de Keys e Values
     # Aceita String , Integer, Float, Boolean...
 
 

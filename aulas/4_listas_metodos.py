@@ -14,6 +14,8 @@ cidades.insert(1, 'Belem')      # insere no indice e o valor
 cidades.pop(0)                  # remove de acordo com o indice
 cidades.sort()                  # organiza por ordem alfabética ou numerica
 
+del cidades[-1]
+
 #forma cada letra e espaço como indice em uma array
 var = list(cidade1)
 print(var)
